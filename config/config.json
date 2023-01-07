@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Bangu858",
+    "database": "adminjs-manha",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Bangu858",
+    "database": "adminjs-manha",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Bangu858",
+    "database": "adminjs-manha",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
