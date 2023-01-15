@@ -19,7 +19,6 @@ import auth from './routes/auth';
 import session from 'express-session';
 import cors from 'cors';
 
-import hbs from 'hbs';
 const path = require('node:path');
 
 require('dotenv').config()
